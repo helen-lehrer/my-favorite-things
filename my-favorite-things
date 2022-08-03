@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lan="eng-US">
+  <head>
+    <meta charset="UTF-8">
+
+    <title>My Favorite Things</title> 
+  </head>
+  <body>
+    <a  href="https://www.amazon.com/</a>
+    <h1>My favorite things rock!</h1>
+    <p>Helen's list:</p>
+    <ul>
+      <li>
+        <img src="img/1.jpg" alt="girl kayaks on a river."> The <strong>outdoors</strong></li>
+      <li>
+        <img src="img/2.jpg" alt="girls sits on a rocky mountain.">Oregon<em> ROCKS!</em></li>
+      <li>
+        <img src="img/3.jpg" alt="dog lays on the grass.">My dog <em>Odi</em>.</li>
+    </ul>
+  </body>
+</html>
